@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:edbdff,100:080da6&height=120&text=HWANG%20HYEYUN&animation=fadeIn&fontColor=000000&fontSize=40" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:edbdff,100:080da6&height=120&text=NICE%20TOMEETYOU&animation=fadeIn&fontColor=000000&fontSize=40" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋ABOUT ME </h2>  

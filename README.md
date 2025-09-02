@@ -41,13 +41,18 @@ Here are some ideas to get you started:
 >
           
         
-          </div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://blog.naver.com/ske07095> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/ske07095"> </a>
-         <a href=https://pepper-purpose-6e7.notion.site/?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://pepper-purpose-6e7.notion.site/?source=copy_link"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
+<div align="center">
+
+## 🧑‍💻 Contact me  
+<br>
+
+<a href="https://blog.naver.com/ske07095">
+  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />
+</a>
+<a href="https://pepper-purpose-6e7.notion.site/?source=copy_link">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+</a>
+
+</div>
+
     

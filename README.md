@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://github.com/EmotionHQ/InsideOut-Back">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hwanghyeyun&repo=EmotionHQ/InsideOut-Back&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmotionHQ&repo=InsideOut-Back&theme=default" />
 </a>
 
 <a href="https://github.com/Hwanghyeyun/coding-test">

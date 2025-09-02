@@ -55,4 +55,22 @@ Here are some ideas to get you started:
 
 </div>
 
+
+
+<div align="center">
+  
+## ✨ My Projects  
+<br>
+
+<a href="https://github.com/EmotionHQ/InsideOut-Back">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hwanghyeyun&repo=capstone-ai-detection&theme=default" />
+</a>
+
+<a href="https://github.com/Hwanghyeyun/coding-test">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hwanghyeyun&repo=spring-user-management&theme=default" />
+</a>
+
+</div>
+
+
     

@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://github.com/EmotionHQ/InsideOut-Back">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hwanghyeyun&repo=capstone-ai-detection&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hwanghyeyun&repo=EmotionHQ/InsideOut-Back&theme=default" />
 </a>
 
 <a href="https://github.com/Hwanghyeyun/coding-test">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hwanghyeyun&repo=spring-user-management&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hwanghyeyun&repo=coding-test&theme=default" />
 </a>
 
 </div>

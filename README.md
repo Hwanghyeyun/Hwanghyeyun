@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
   <br><br>
 
-  <p><b>🐶 Baby-Pup – 팀 프로젝트 (Organization)</b></p>
+  <p><b>🐶 Baby-Pup – 자율주행 의료지원 로봇 (Organization)</b></p>
   <a href="https://github.com/Baby-Pup">
     👉 GitHub Organization 바로가기
   </a>
